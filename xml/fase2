@@ -1,0 +1,3335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <body>
+    <h1>Detalles del Pedido</h1>
+    <table border="1">
+      <tr>
+        <th>Nombre</th>
+        <th>Apellidos</th>
+        <th>Telefono</th>
+        <th>Calle</th>
+        <th>Ciudad</th>
+        <th>Codigo postal</th>
+        <th>Provincia</th>
+        <th>Correo</th>
+        <th>Fecha inclusion</th>
+        <th>Numero pedido</th>
+        <th>Fecha compra</th>
+        <th>Fecha entrega</th>
+        <th>Factura</th>
+        <th>Producto</th>
+        <th>Referencia</th>
+        <th>Precio</th>
+        <th>Unidades</th>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+    </table>
+    <h1>Detalles del Cliente</h1>
+    <table border="1">
+      <tr>
+        <th>Nombre</th>
+        <th>Apellidos</th>
+        <th>Telefono</th>
+        <th>Calle</th>
+        <th>Ciudad</th>
+        <th>Codigo postal</th>
+        <th>Provincia</th>
+        <th>Correo</th>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>Pérez</td>
+        <td>333444555</td>
+        <td>Av. Norte 987</td>
+        <td>Ciudad D</td>
+        <td>54321</td>
+        <td>Provincia W</td>
+        <td>roberto@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>Hernández</td>
+        <td>555111222</td>
+        <td>Av. Central 789</td>
+        <td>Ciudad C</td>
+        <td>67890</td>
+        <td>Provincia Z</td>
+        <td>luisa@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Martínez</td>
+        <td>123456789</td>
+        <td>Calle Principal 123</td>
+        <td>Ciudad A</td>
+        <td>54321</td>
+        <td>Provincia X</td>
+        <td>carlos@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>Ruiz</td>
+        <td>987654321</td>
+        <td>Calle Secundaria 456</td>
+        <td>Ciudad B</td>
+        <td>12345</td>
+        <td>Provincia Y</td>
+        <td>ana@gmail.com</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>Gómez</td>
+        <td>123456789</td>
+        <td>Calle 123</td>
+        <td>Ciudad A</td>
+        <td>12345</td>
+        <td>Provincia X</td>
+        <td>juan@gmail.com</td>
+      </tr>
+    </table>
+    <h1>Factura</h1>
+    <table border="1">
+      <tr>
+        <th>Cliente</th>
+        <th>Fecha inclusion</th>
+        <th>Numero pedido</th>
+        <th>Fecha compra</th>
+        <th>Fecha entrega</th>
+        <th>Precio total</th>
+        <th>Producto</th>
+        <th>Referencia</th>
+        <th>Precio</th>
+        <th>Unidades</th>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2021-01-12</td>
+        <td>002</td>
+        <td>2021-01-12</td>
+        <td>2021-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2021-01-20</td>
+        <td>003</td>
+        <td>2021-01-20</td>
+        <td>2021-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Roberto</td>
+        <td>2021-01-25</td>
+        <td>004</td>
+        <td>2021-01-25</td>
+        <td>2021-01-30</td>
+        <td>200.00</td>
+        <td>Smartphone</td>
+        <td>S004</td>
+        <td>150.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2021-01-05</td>
+        <td>001</td>
+        <td>2021-01-05</td>
+        <td>2021-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td/>
+        <td>2022-01-05</td>
+        <td/>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td/>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Luisa</td>
+        <td>2022-01-20</td>
+        <td>003</td>
+        <td>2022-01-20</td>
+        <td>2022-01-25</td>
+        <td>90.00</td>
+        <td>Libro</td>
+        <td>L003</td>
+        <td>30.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>75.00</td>
+        <td>Camiseta</td>
+        <td>C001</td>
+        <td>25.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Ana</td>
+        <td>2022-01-12</td>
+        <td>002</td>
+        <td>2022-01-12</td>
+        <td>2022-01-18</td>
+        <td>120.00</td>
+        <td>Zapatos</td>
+        <td>Z002</td>
+        <td>60.00</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Juan</td>
+        <td>2022-01-05</td>
+        <td>001</td>
+        <td>2022-01-05</td>
+        <td>2022-01-10</td>
+        <td>150.00</td>
+        <td>Producto1</td>
+        <td>P001</td>
+        <td>50.00</td>
+        <td>2</td>
+      </tr>
+    </table>
+  </body>
+</html>

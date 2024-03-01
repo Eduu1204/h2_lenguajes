@@ -1,0 +1,2721 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web_pedidos SYSTEM "file:/C:/Users/eduu1/Documents/xml/hito.dtd">
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/eduu1/Documents/xml/hito.xsl"?>
+<web_pedidos>
+  <anio año="2021">
+      <trimestre num="1">
+         <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+          <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2021-01-12</fecha_compra>
+                    <fecha_entrega>2021-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+           <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre> 
+       <trimestre num="2">
+          <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2021-01-12</fecha_compra>
+                    <fecha_entrega>2021-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+         <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2021-01-12</fecha_compra>
+                    <fecha_entrega>2021-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            </trimestre>
+
+ <trimestre num="3">
+          <!-- 10 pedidos -->
+         <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+          <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2021-01-12</fecha_compra>
+                    <fecha_entrega>2021-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+           <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre> 
+  <trimestre num="4">
+          <!-- 10 pedidos -->
+         <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+          <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2021-01-12</fecha_compra>
+                    <fecha_entrega>2021-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-01-20</fecha_compra>
+                    <fecha_entrega>2021-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+
+           <pedido>
+                <cliente>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>333444555</telefono>
+                    <direccion>
+                        <calle>Av. Norte 987</calle>
+                        <ciudad>Ciudad D</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia W</provincia>
+                    </direccion>
+                    <correo_electronico>roberto@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-01-25</fecha_compra>
+                    <fecha_entrega>2021-01-30</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartphone</nombre>
+                            <referencia>S004</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Auriculares</nombre>
+                            <referencia>A002</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-05</fecha_compra>
+                    <fecha_entrega>2021-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre> 
+  </anio>
+
+  <!-- Año 2022 -->
+  <anio año="2022">
+      <!-- Trimestre 1 -->
+      <trimestre num="1">
+          <!-- 10 pedidos -->
+          <pedido>
+              <nombre>Juan</nombre>
+              <apellidos>Gómez</apellidos>
+              <telefono>123456789</telefono>
+              <direccion>
+                  <calle>Calle 123</calle>
+                  <ciudad>Ciudad A</ciudad>
+                  <codigo_postal>12345</codigo_postal>
+                  <provincia>Provincia X</provincia>
+              </direccion>
+              <correo>juan@gmail.com</correo>
+              <fecha_inclusion>2022-01-05</fecha_inclusion>
+              <detalle_pedido>
+                  <num_pedido>001</num_pedido>
+                  <fecha_compra>2022-01-05</fecha_compra>
+                  <fecha_entrega>2022-01-10</fecha_entrega>
+                  <total_factura>150.00</total_factura>
+                  <producto>
+                      <nombre>Producto A</nombre>
+                      <referencia>P001</referencia>
+                      <precio>50.00</precio>
+                      <unidades>2</unidades>
+                  </producto>
+                  <!-- Otros productos del pedido -->
+              </detalle_pedido>
+          </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2022-01-20</fecha_compra>
+                    <fecha_entrega>2022-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre>
+     <trimestre num="2">
+          <!-- 10 pedidos -->
+          <pedido>
+              <nombre>Juan</nombre>
+              <apellidos>Gómez</apellidos>
+              <telefono>123456789</telefono>
+              <direccion>
+                  <calle>Calle 123</calle>
+                  <ciudad>Ciudad A</ciudad>
+                  <codigo_postal>12345</codigo_postal>
+                  <provincia>Provincia X</provincia>
+              </direccion>
+              <correo>juan@gmail.com</correo>
+              <fecha_inclusion>2022-01-05</fecha_inclusion>
+              <detalle_pedido>
+                  <num_pedido>001</num_pedido>
+                  <fecha_compra>2022-01-05</fecha_compra>
+                  <fecha_entrega>2022-01-10</fecha_entrega>
+                  <total_factura>150.00</total_factura>
+                  <producto>
+                      <nombre>Producto A</nombre>
+                      <referencia>P001</referencia>
+                      <precio>50.00</precio>
+                      <unidades>2</unidades>
+                  </producto>
+                  <!-- Otros productos del pedido -->
+              </detalle_pedido>
+          </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2022-01-20</fecha_compra>
+                    <fecha_entrega>2022-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre>
+      <trimestre num="3">
+          <!-- 10 pedidos -->
+          <pedido>
+              <nombre>Juan</nombre>
+              <apellidos>Gómez</apellidos>
+              <telefono>123456789</telefono>
+              <direccion>
+                  <calle>Calle 123</calle>
+                  <ciudad>Ciudad A</ciudad>
+                  <codigo_postal>12345</codigo_postal>
+                  <provincia>Provincia X</provincia>
+              </direccion>
+              <correo>juan@gmail.com</correo>
+              <fecha_inclusion>2022-01-05</fecha_inclusion>
+              <detalle_pedido>
+                  <num_pedido>001</num_pedido>
+                  <fecha_compra>2022-01-05</fecha_compra>
+                  <fecha_entrega>2022-01-10</fecha_entrega>
+                  <total_factura>150.00</total_factura>
+                  <producto>
+                      <nombre>Producto A</nombre>
+                      <referencia>P001</referencia>
+                      <precio>50.00</precio>
+                      <unidades>2</unidades>
+                  </producto>
+                  <!-- Otros productos del pedido -->
+              </detalle_pedido>
+          </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2022-01-20</fecha_compra>
+                    <fecha_entrega>2022-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre>
+      <trimestre num="4">
+          <!-- 10 pedidos -->
+          <pedido>
+              <nombre>Juan</nombre>
+              <apellidos>Gómez</apellidos>
+              <telefono>123456789</telefono>
+              <direccion>
+                  <calle>Calle 123</calle>
+                  <ciudad>Ciudad A</ciudad>
+                  <codigo_postal>12345</codigo_postal>
+                  <provincia>Provincia X</provincia>
+              </direccion>
+              <correo>juan@gmail.com</correo>
+              <fecha_inclusion>2022-01-05</fecha_inclusion>
+              <detalle_pedido>
+                  <num_pedido>001</num_pedido>
+                  <fecha_compra>2022-01-05</fecha_compra>
+                  <fecha_entrega>2022-01-10</fecha_entrega>
+                  <total_factura>150.00</total_factura>
+                  <producto>
+                      <nombre>Producto A</nombre>
+                      <referencia>P001</referencia>
+                      <precio>50.00</precio>
+                      <unidades>2</unidades>
+                  </producto>
+                  <!-- Otros productos del pedido -->
+              </detalle_pedido>
+          </pedido>
+          <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+           <pedido>
+                <cliente>
+                    <nombre>Luisa</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>555111222</telefono>
+                    <direccion>
+                        <calle>Av. Central 789</calle>
+                        <ciudad>Ciudad C</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>Provincia Z</provincia>
+                    </direccion>
+                    <correo_electronico>luisa@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2022-01-20</fecha_compra>
+                    <fecha_entrega>2022-01-25</fecha_entrega>
+                    <total_factura>90.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro</nombre>
+                            <referencia>L003</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara</nombre>
+                            <referencia>L002</referencia>
+                            <precio>15.00</precio>
+                            <unidades>3</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Camiseta</nombre>
+                            <referencia>C001</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+             <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Ruiz</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Calle Secundaria 456</calle>
+                        <ciudad>Ciudad B</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia Y</provincia>
+                    </direccion>
+                    <correo_electronico>ana@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>002</numero_pedido>
+                    <fecha_compra>2022-01-12</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos</nombre>
+                            <referencia>Z002</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Bolso</nombre>
+                            <referencia>B001</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle 123</calle>
+                        <ciudad>Ciudad A</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>Provincia X</provincia>
+                    </direccion>
+                    <correo_electronico>juan@gmail.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2022-01-05</fecha_compra>
+                    <fecha_entrega>2022-01-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Producto1</nombre>
+                            <referencia>P001</referencia>
+                            <precio>50.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Producto2</nombre>
+                            <referencia>P002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <!-- Otros productos -->
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+      </trimestre>
+  </anio>
+</web_pedidos>
